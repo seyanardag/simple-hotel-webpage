@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seyanardag/simple-hotel-webpage.git/static/css/main.3a472b22.css",
+    "main.js": "/seyanardag/simple-hotel-webpage.git/static/js/main.e375740f.js",
+    "static/js/787.d81f3ee3.chunk.js": "/seyanardag/simple-hotel-webpage.git/static/js/787.d81f3ee3.chunk.js",
+    "index.html": "/seyanardag/simple-hotel-webpage.git/index.html",
+    "main.3a472b22.css.map": "/seyanardag/simple-hotel-webpage.git/static/css/main.3a472b22.css.map",
+    "main.e375740f.js.map": "/seyanardag/simple-hotel-webpage.git/static/js/main.e375740f.js.map",
+    "787.d81f3ee3.chunk.js.map": "/seyanardag/simple-hotel-webpage.git/static/js/787.d81f3ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a472b22.css",
+    "static/js/main.e375740f.js"
+  ]
+}
